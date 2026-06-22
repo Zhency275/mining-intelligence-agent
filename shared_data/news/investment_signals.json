@@ -1,0 +1,74 @@
+{
+  "Pilbara": {
+    "region": "Pilbara, Western Australia",
+    "last_updated": "2026-06-20",
+    "sentiment_score": 7.5,
+    "sentiment_label": "moderately_bullish",
+    "key_catalysts": [
+      {
+        "factor": "Lithium price recovery above US$1,100/t",
+        "impact": "high",
+        "timeline": "current"
+      },
+      {
+        "factor": "Pilgangoora P680 full ramp-up",
+        "impact": "high",
+        "timeline": "H2 2026"
+      },
+      {
+        "factor": "WA Government infrastructure investment (AU$350M)",
+        "impact": "medium",
+        "timeline": "2026-2028"
+      },
+      {
+        "factor": "Rio Tinto Andover FID (US$1.5Bn)",
+        "impact": "medium",
+        "timeline": "2028+"
+      },
+      {
+        "factor": "Port Hedland export capacity doubling",
+        "impact": "medium",
+        "timeline": "2027"
+      },
+      {
+        "factor": "EU Critical Raw Materials Act driving offtake diversification",
+        "impact": "medium",
+        "timeline": "ongoing"
+      }
+    ],
+    "key_risks": [
+      {
+        "factor": "Lithium price volatility (China EV demand fluctuations)",
+        "severity": "high",
+        "probability": "medium"
+      },
+      {
+        "factor": "Cost inflation (labor, structural steel, energy)",
+        "severity": "medium",
+        "probability": "high"
+      },
+      {
+        "factor": "African lithium supply surge depressing prices",
+        "severity": "medium",
+        "probability": "medium"
+      },
+      {
+        "factor": "Permitting delays for greenfield projects (Andover, Tabba Tabba)",
+        "severity": "medium",
+        "probability": "medium"
+      },
+      {
+        "factor": "China demand slowdown from LFP battery overcapacity",
+        "severity": "high",
+        "probability": "low-medium"
+      },
+      {
+        "factor": "Skilled labor shortages in Pilbara region",
+        "severity": "medium",
+        "probability": "high"
+      }
+    ],
+    "recommendation_summary": "Pilbara 锂矿区域整体偏多。PLS 作为区域龙头具备成本优势，产能扩张确定性强。建议关注 Liontown 产能爬坡进度和 Rio Tinto 新项目进展。主要风险来自锂价波动和成本通胀。推荐 PLS.ASX（买入）、LTR.ASX（持有待突破）。",
+    "source": "curated_analyst_consensus"
+  }
+}

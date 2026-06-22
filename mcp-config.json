@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "mine-production": {
+      "command": "python",
+      "args": [
+        "-m",
+        "server_a_mine_production.server"
+      ],
+      "cwd": "D:\\mining-intelligence-agent"
+    },
+    "commodity-price": {
+      "command": "python",
+      "args": [
+        "-m",
+        "server_b_commodity_price.server"
+      ],
+      "cwd": "D:\\mining-intelligence-agent"
+    },
+    "mining-news": {
+      "command": "python",
+      "args": [
+        "-m",
+        "server_c_mining_news.server"
+      ],
+      "cwd": "D:\\mining-intelligence-agent"
+    }
+  }
+}

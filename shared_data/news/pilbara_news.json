@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Pilbara Minerals Reports Record Spodumene Production in Q1 FY2026",
+    "date": "2026-06-15",
+    "source": "Mining Weekly",
+    "url": "https://www.miningweekly.com/article/pilbara-minerals-record-spodumene-q1-2026",
+    "snippet": "Pilbara Minerals Ltd (PLS.ASX) announced record quarterly spodumene concentrate production of 260,000 tonnes at its Pilgangoora operation, driven by the P680 expansion ramp-up. Cash costs declined to US$420/t, positioning PLS as one of the lowest-cost lithium producers globally.",
+    "sentiment": "positive",
+    "topics": ["production", "Pilgangoora", "Pilbara Minerals", "cost"]
+  },
+  {
+    "title": "Lithium Prices Climb Above US$1,100/t — First Time Since 2023",
+    "date": "2026-06-10",
+    "source": "Benchmark Mineral Intelligence",
+    "url": "https://www.benchmarkminerals.com/lithium-spodumene-price-june-2026",
+    "snippet": "Spodumene 6% concentrate (CIF China) breached US$1,100/tonne for the first time since early 2023, reflecting a tighter supply-demand balance. BMI analysts cite EV battery demand growth of 25% YoY and slower-than-expected new supply from Africa as key drivers.",
+    "sentiment": "positive",
+    "topics": ["price", "spodumene", "market_balance"]
+  },
+  {
+    "title": "WA Government Fast-Tracks Pilbara Lithium Infrastructure",
+    "date": "2026-05-28",
+    "source": "Australian Financial Review",
+    "url": "https://www.afr.com/wa-gov-fast-tracks-pilbara-lithium-infra-2026",
+    "snippet": "The Western Australian government committed AU$350M to accelerate Pilbara lithium infrastructure, including a new 220kV transmission line to the Pilgangoora-Wodgina corridor and upgrades to Port Hedland bulk-handling capacity. The investment is expected to reduce logistics costs by 12-15%.",
+    "sentiment": "positive",
+    "topics": ["infrastructure", "government", "Pilbara", "logistics"]
+  },
+  {
+    "title": "Liontown's Kathleen Valley Reaches 80% Nameplate Capacity",
+    "date": "2026-06-01",
+    "source": "Mining.com",
+    "url": "https://www.mining.com/liontown-kathleen-valley-ramp-up-80pct",
+    "snippet": "Liontown Resources announced Kathleen Valley's processing plant has reached 80% of its 500ktpa nameplate capacity, with full ramp-up expected by September 2026. DMS circuit recoveries have consistently exceeded 75% in the past two quarters.",
+    "sentiment": "positive",
+    "topics": ["production", "Kathleen Valley", "Liontown", "ramp_up"]
+  },
+  {
+    "title": "MinRes Suspends Bald Hill Lithium Operation Indefinitely",
+    "date": "2024-12-12",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/minres-bald-hill-suspension-2024-12",
+    "snippet": "Mineral Resources placed its Bald Hill lithium mine on care & maintenance, citing unsustainably low spodumene prices at the time. ~300 jobs affected. The company states the mine can be restarted within 6 months if prices recover above US$1,200/t.",
+    "sentiment": "negative",
+    "topics": ["production_cut", "Bald Hill", "MinRes", "jobs"]
+  },
+  {
+    "title": "China's Lithium Carbonate Imports from Australia Surge 35% YoY",
+    "date": "2026-05-15",
+    "source": "Fastmarkets",
+    "url": "https://www.fastmarkets.com/china-lithium-carbonate-imports-australia-may-2026",
+    "snippet": "Chinese customs data shows lithium carbonate imports from Australian converters rose 35% YoY in Q1 2026, reflecting strong downstream demand from LFP battery cathode makers. Tianqi's Kwinana plant and IGO's Kwinana JV both reported record output.",
+    "sentiment": "positive",
+    "topics": ["trade", "China", "downstream", "conversion"]
+  },
+  {
+    "title": "Pilbara Region Lithium Output to Exceed 3Mtpa by 2027 — BMI Forecast",
+    "date": "2026-04-20",
+    "source": "Benchmark Mineral Intelligence",
+    "url": "https://www.benchmarkminerals.com/pilbara-3mtpa-2027-forecast",
+    "snippet": "BMI forecasts total Pilbara-region spodumene output will surpass 3 million tonnes per annum by 2027, up from ~1.8Mt in 2025. Key contributors: Pilgangoora expansion to 1Mt, Wodgina full restart, and Andover greenfield. However, permitting risks remain for greenfield projects.",
+    "sentiment": "positive",
+    "topics": ["forecast", "production", "Pilbara", "expansion"]
+  },
+  {
+    "title": "EU Critical Raw Materials Act Triggers Scramble for Australian Lithium Offtake",
+    "date": "2026-03-08",
+    "source": "Financial Times",
+    "url": "https://www.ft.com/eu-crma-australia-lithium-offtake-2026",
+    "snippet": "European automakers and cathode producers are aggressively pursuing long-term offtake agreements with Australian lithium miners, driven by EU Critical Raw Materials Act requirements. Pilbara Minerals and Liontown both confirmed advanced negotiations with European buyers, diversifying away from Chinese-dominated offtake.",
+    "sentiment": "positive",
+    "topics": ["of_take", "EU", "policy", "trade_diversification"]
+  },
+  {
+    "title": "MinRes-Albemarle Wodgina JV Expansion Faces Cost Overruns",
+    "date": "2026-02-22",
+    "source": "The West Australian",
+    "url": "https://thewest.com.au/minres-wodgina-cost-overruns-2026-02",
+    "snippet": "The Wodgina JV's Train 3 restart has encountered AU$80M in cost overruns, pushing the projected restart cost to AU$450M. MinRes attributes delays to contractor shortages and escalating structural steel costs. Albemarle has approved the revised budget.",
+    "sentiment": "negative",
+    "topics": ["cost_overrun", "Wodgina", "MinRes", "construction"]
+  },
+  {
+    "title": "Lithium Market Deficit Expected by 2028 — Goldman Sachs",
+    "date": "2026-06-05",
+    "source": "Goldman Sachs Commodities Research",
+    "url": "https://www.goldmansachs.com/research/lithium-deficit-2028",
+    "snippet": "Goldman Sachs projects the lithium market will swing into a structural deficit by 2028 (~50kt LCE), revising its earlier surplus forecast. The bank cites slower African ramp-up, faster EV penetration (28% of new car sales globally by 2028), and accelerating energy storage system (ESS) deployment as the key factors.",
+    "sentiment": "positive",
+    "topics": ["market_outlook", "deficit", "EV", "ESS"]
+  },
+  {
+    "title": "Rio Tinto Enters Pilbara Lithium with Andover Project FID",
+    "date": "2026-04-10",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/rio-tinto-andover-lithium-fid-2026",
+    "snippet": "Rio Tinto board gave final investment decision (FID) to the Andover lithium project in the Pilbara, committing US$1.5Bn to build a 500ktpa spodumene concentrator. First production is targeted for H2 2028. The move intensifies competition for labor and infrastructure in the Pilbara.",
+    "sentiment": "positive",
+    "topics": ["new_entrant", "Rio Tinto", "Andover", "FID"]
+  },
+  {
+    "title": "Albemarle Considers Reducing Kemerton Lithium Hydroxide Output",
+    "date": "2025-11-18",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/albemarle-kemerton-lithium-hydroxide-output-2025-11",
+    "snippet": "Albemarle is reviewing its Kemerton lithium hydroxide plant in WA, with potential temporary curtailment of Train 1 due to persistent negative conversion margins. The plant's 50ktpa total capacity may be reduced to 30ktpa until hydroxide prices recover.",
+    "sentiment": "negative",
+    "topics": ["downstream", "Albemarle", "Kemerton", "curtailment"]
+  },
+  {
+    "title": "Australian Lithium Export Revenue to Hit AU$25Bn in FY2027 — Government Forecast",
+    "date": "2026-06-18",
+    "source": "Australia Department of Industry",
+    "url": "https://www.industry.gov.au/resources-forecast-lithium-june-2026",
+    "snippet": "Australia's Resources and Energy Quarterly (REQ) forecasts lithium export revenue will reach AU$25 billion in FY2027, surpassing thermal coal. Spodumene exports are projected at 4.2Mt, supported by recent mine expansions and new capacity from Kathleen Valley.",
+    "sentiment": "positive",
+    "topics": ["export", "revenue", "government", "forecast"]
+  },
+  {
+    "title": "Bald Hill Restart Under Review as Lithium Prices Recover",
+    "date": "2026-03-25",
+    "source": "Mining Weekly",
+    "url": "https://www.miningweekly.com/bald-hill-restart-review-mar-2026",
+    "snippet": "Mineral Resources confirmed it has initiated an internal review of Bald Hill's restart economics. With spodumene prices recovering above US$1,000/t, the company sees a potential decision window in Q3 2026. Bald Hill produced 120kt of spodumene in 2024 before its suspension.",
+    "sentiment": "positive",
+    "topics": ["restart", "Bald Hill", "MinRes", "price_recovery"]
+  },
+  {
+    "title": "Pilbara Port Hedland Lithium Export Capacity to Double",
+    "date": "2026-05-05",
+    "source": "Port Hedland Port Authority",
+    "url": "https://www.pilbaraports.com.au/port-hedland-lithium-export-expansion-2026",
+    "snippet": "Port Hedland Port Authority approved Stage 2 of its lithium export berth expansion, doubling annual lithium concentrate export capacity to 4 million tonnes. Construction starts Q3 2026, targeting completion by mid-2027.",
+    "sentiment": "positive",
+    "topics": ["infrastructure", "Port Hedland", "export", "logistics"]
+  }
+]

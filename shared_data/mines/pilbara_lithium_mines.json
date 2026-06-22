@@ -1,0 +1,135 @@
+[
+  {
+    "mine_name": "Pilgangoora",
+    "region": "Pilbara",
+    "country": "Australia",
+    "operator": "Pilbara Minerals Ltd (PLS.ASX)",
+    "owners": ["Pilbara Minerals Ltd"],
+    "status": "operating",
+    "annual_production_tonnes": {
+      "2024": 725000,
+      "2025": 850000,
+      "2026_est": 1000000
+    },
+    "reserves_tonnes": 108000000,
+    "resources_tonnes": 213000000,
+    "mine_type": "open_pit",
+    "products": ["spodumene_5.2pct", "spodumene_6pct"],
+    "description": "全球最大硬岩锂矿之一，位于西澳 Pilbara 地区，Pilbara Minerals 旗舰资产。年产能持续扩张中，目标达到 1Mtpa。",
+    "source": "Pilbara Minerals FY2025 Annual Report, public filings"
+  },
+  {
+    "mine_name": "Wodgina",
+    "region": "Pilbara",
+    "country": "Australia",
+    "operator": "Mineral Resources Ltd (MIN.ASX)",
+    "owners": ["Mineral Resources Ltd", "Albemarle Corporation (joint venture)"],
+    "status": "operating",
+    "annual_production_tonnes": {
+      "2024": 450000,
+      "2025": 500000,
+      "2026_est": 750000
+    },
+    "reserves_tonnes": 85000000,
+    "resources_tonnes": 151000000,
+    "mine_type": "open_pit",
+    "products": ["spodumene_6pct"],
+    "description": "Pilbara 地区第二大硬岩锂矿，MinRes 与 Albemarle 合资运营。三条选矿线逐步复产中。",
+    "source": "Mineral Resources FY2025 Half-Year Report"
+  },
+  {
+    "mine_name": "Greenbushes",
+    "region": "Greenbushes (SW Western Australia)",
+    "country": "Australia",
+    "operator": "Talison Lithium (Tianqi/IGO/Albemarle JV)",
+    "owners": ["Tianqi Lithium (26%)", "IGO Limited (25%)", "Albemarle (49%)"],
+    "status": "operating",
+    "annual_production_tonnes": {
+      "2024": 1490000,
+      "2025": 1500000,
+      "2026_est": 1600000
+    },
+    "reserves_tonnes": 160000000,
+    "resources_tonnes": 335000000,
+    "mine_type": "open_pit + underground",
+    "products": ["spodumene_6pct", "chemical_grade_concentrate"],
+    "description": "全球最大、品位最高的硬岩锂矿，位于西澳西南部。运营超 40 年，储量基础极为雄厚。",
+    "source": "IGO Limited FY2025 guidance, Talison public reports"
+  },
+  {
+    "mine_name": "Mt Marion",
+    "region": "Goldfields",
+    "country": "Australia",
+    "operator": "Mineral Resources Ltd (MIN.ASX)",
+    "owners": ["Mineral Resources Ltd (50%)", "Ganfeng Lithium (50%)"],
+    "status": "operating",
+    "annual_production_tonnes": {
+      "2024": 450000,
+      "2025": 480000,
+      "2026_est": 600000
+    },
+    "reserves_tonnes": 38000000,
+    "resources_tonnes": 65000000,
+    "mine_type": "open_pit",
+    "products": ["spodumene_4pct", "spodumene_6pct"],
+    "description": "MinRes 与赣锋锂业各占 50%，经 2023 年扩建后年产能提升至 90 万吨混合品位精矿。",
+    "source": "Mineral Resources FY2025 investor presentation"
+  },
+  {
+    "mine_name": "Kathleen Valley",
+    "region": "Goldfields",
+    "country": "Australia",
+    "operator": "Liontown Resources Ltd (LTR.ASX)",
+    "owners": ["Liontown Resources Ltd"],
+    "status": "ramp_up",
+    "annual_production_tonnes": {
+      "2024": 0,
+      "2025": 200000,
+      "2026_est": 500000
+    },
+    "reserves_tonnes": 68000000,
+    "resources_tonnes": 156000000,
+    "mine_type": "underground + open_pit",
+    "products": ["spodumene_6pct"],
+    "description": "2024 年 7 月投产的新一代锂矿，Liontown 旗舰项目。设计年产能 500kt，正处于产能爬坡阶段。",
+    "source": "Liontown Resources December 2025 Quarterly Report"
+  },
+  {
+    "mine_name": "Bald Hill",
+    "region": "Goldfields",
+    "country": "Australia",
+    "operator": "Mineral Resources Ltd (MIN.ASX)",
+    "owners": ["Mineral Resources Ltd"],
+    "status": "care_and_maintenance",
+    "annual_production_tonnes": {
+      "2024": 120000,
+      "2025": 0,
+      "2026_est": 0
+    },
+    "reserves_tonnes": 12000000,
+    "resources_tonnes": 28000000,
+    "mine_type": "open_pit",
+    "products": ["spodumene_6pct"],
+    "description": "因锂价低迷于 2024 年底转入维护状态。待锂价回升后可快速复产。",
+    "source": "Mineral Resources market announcement Dec 2024"
+  },
+  {
+    "mine_name": "Pilbara Minerals Ngungaju",
+    "region": "Pilbara",
+    "country": "Australia",
+    "operator": "Pilbara Minerals Ltd (PLS.ASX)",
+    "owners": ["Pilbara Minerals Ltd"],
+    "status": "operating",
+    "annual_production_tonnes": {
+      "2024": 150000,
+      "2025": 180000,
+      "2026_est": 200000
+    },
+    "reserves_tonnes": 11000000,
+    "resources_tonnes": 29000000,
+    "mine_type": "open_pit",
+    "products": ["spodumene_5.2pct"],
+    "description": "原 Altura Mining 资产，2021 年被 PLS 收购后整合入 Pilgangoora 矿区体系。",
+    "source": "Pilbara Minerals FY2025 investor update"
+  }
+]

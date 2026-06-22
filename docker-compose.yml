@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  # Single-container setup: Agent starts MCP servers as local subprocesses inside container.
+  # stdio transport works natively within the same container, no networking config needed.
+  mining-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mining-intelligence-agent
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - LIVE_MODE=${LIVE_MODE:-false}
+    volumes:
+      - ./reports:/app/reports
+      - ./shared_data:/app/shared_data:ro
+    stdin_open: true
+    tty: true
+    # Default query — override with QUERY env var or run interactively
+    command: >
+      sh -c "python -m agent_client.main --query \"${QUERY:-请给我一份关于 Pilbara 锂矿的简报}\""
